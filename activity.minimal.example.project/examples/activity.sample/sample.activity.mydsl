@@ -1,0 +1,9 @@
+Root start {
+	activities {
+		Activity FirsOne {
+			sequences {
+				Sequence one, Sequence two
+			}
+		}
+	}
+}
